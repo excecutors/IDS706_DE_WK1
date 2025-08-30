@@ -33,7 +33,7 @@ IDS706_DE_WK1/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<your-username>/IDS706_DE_WK1.git
+git clone https://github.com/excecutors/IDS706_DE_WK1.git
 cd IDS706_DE_WK1
 ```
 
