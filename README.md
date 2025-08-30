@@ -87,7 +87,7 @@ def test_add():
 
 ---
 
-## 🤖 GitHub Actions (CI/CD)
+## GitHub Actions (CI/CD)
 This project includes a workflow that:
 - Installs dependencies
 - Runs **flake8** for linting
